@@ -1,0 +1,2 @@
+// Przestrzeń nazwowa
+var Game = {};

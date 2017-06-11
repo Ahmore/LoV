@@ -1,0 +1,17 @@
+{
+  "name": "line_of_victory",
+  "description": "Game for Codewise final",
+  "main": "index.html",
+  "authors": [
+    "Dariusz Szymczyk"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
