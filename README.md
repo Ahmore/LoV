@@ -1,2 +1,1 @@
-# LoV
-Line of Victory game
+http://testowy.medkom.pl/LoV/
